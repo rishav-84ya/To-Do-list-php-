@@ -66,12 +66,7 @@ Basic backend development
 
 Frontend styling
 
-If you want, I can also:
 
-🔥 Make a professional README.md version (copy-paste ready)
 
-🧠 Write it like a cybersecurity portfolio project
 
-🎓 Make it look like a college mini-project submission
-
-💼 Make it resume-ready description (2–3 lines only)
+vie (Rishav)
